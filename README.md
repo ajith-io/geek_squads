@@ -3,9 +3,9 @@
 ![Capture](https://user-images.githubusercontent.com/79782487/132104250-a70603a3-8a16-428c-9d03-07f74bd188f3.gif)
 
 # Badges
-| CI | Code Quality | Git Inspector | Code Coverage | Unit Test |
+| CI | Git Inspector | Code Coverage |Code Quality |Unit Test |
 |----|--------------|---------------|---------------|-----------|
-
+|[![C/C++ CI - Build Status](https://github.com/ajith-io/geek_squads/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/geek_squads/actions/workflows/main.yml)|[![Git Inspector](https://github.com/ajith-io/geek_squads/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ajith-io/geek_squads/actions/workflows/git_inspector.yml)|[![CI-Coverage](https://github.com/ajith-io/geek_squads/actions/workflows/coverage.yml/badge.svg)](https://github.com/ajith-io/geek_squads/actions/workflows/coverage.yml)|[![cppcheck-action](https://github.com/ajith-io/geek_squads/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ajith-io/geek_squads/actions/workflows/cppcheck.yml)|
 
 # Folder Structure
 | Folder | Description |
