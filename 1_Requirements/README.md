@@ -18,12 +18,6 @@ This is the mini project in c programming, Telecom Billing System.In which we ca
 **User needs to select/input the options in the CL and then use the required function**
 
 
-# SWOT Analysis #
-
-![swot](https://github.com/ajith-io/SDLC_18_Geek_Squad/blob/main/1_Requirements/SWOT%20Analysis.png)
-
-
-
 
 # SWOT Analysis #
 
