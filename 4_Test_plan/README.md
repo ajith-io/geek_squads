@@ -21,7 +21,7 @@
 |`LLR6` | `HLR1` | If the User has not created account before logging in |Username in login|Display message if username doesnt eixst | Display **User doesnt exist Please create account** | Boundary based|
 |`LLR7`|`HLR2`|Asking User to select track| integer value as in menu| move to their respective track| Shows the sub menu of respective track| Requiremnet based|
 |`LLR8`|`HLR2`| To invoke function as per selected option|Integer value as in menu| calls the function in that track| as per the entered option, the function is called| Requirement based|
-|`LLR13`|`HLR3`| To take Revenue details| Budget value | Choose for budget plan, spending budget or exit | takes budget and display sub menu | Requirement based| 
-|`LLR14`|`HLR3`| To take the expense details | Asks the amount spend | To store details of spending | Keep track of amount spent | Requirement based|
-|`LLR15`|`HLR4`| To summarize the budget | All amount spent | Reduce the spent amount from budget | Gives left budget after spent | Requirement based |
-|`LLR16`|`HLR4`| Events view the reminder | Add about event and duration to check details| wait for that long and see the schedule| any event for the day | Requirement based |
+|`LLR9`|`HLR3`| To take Revenue details| Budget value | Choose for budget plan, spending budget or exit | takes budget and display sub menu | Requirement based| 
+|`LLR10`|`HLR3`| To take the expense details | Asks the amount spend | To store details of spending | Keep track of amount spent | Requirement based|
+|`LLR11`|`HLR4`| To summarize the budget | All amount spent | Reduce the spent amount from budget | Gives left budget after spent | Requirement based |
+|`LLR12`|`HLR4`| Events view the reminder | Add about event and duration to check details| wait for that long and see the schedule| any event for the day | Requirement based |
