@@ -1,5 +1,5 @@
 # Introduction #
-REMIND ME is here to take care of your health and wealth. Our Application Integrates Event Management. The app can make specific exercise type and duration recommendations based on the daily calorie intake and BMI which gives a definite goal for the user to achieve. The app includes monthly expense tracking and bill reminder in the Finance section. It also includes reminders and event scheduling for event management
+REMIND ME is here to take care of your health and wealth. Our Application Integrates Event Management. . It also includes reminders and event scheduling for event management
 A calendar is a basic necessity in our day to day activities. This project is a functional calendar which has various uses in the users day to day activities.
 
 # 4W&#s and 1&#39;H
