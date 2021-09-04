@@ -17,4 +17,3 @@ A calendar is a basic necessity in our day to day activities. This project is a 
 
 # SWOT Analysis #
 
-![swot](https://github.com/ajith-io/SDLC_18_Geek_Squad/blob/main/1_Requirements/SWOT%20Analysis.png)
