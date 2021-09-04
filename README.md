@@ -1,15 +1,11 @@
-# geek_squads
-c++
+# ........Geek_Squad........
+# ✨...Remind me ⏰...✨
+![Capture](https://user-images.githubusercontent.com/79782487/132104250-a70603a3-8a16-428c-9d03-07f74bd188f3.gif)
 
-# ✨ ... GS Companion 🤖 ... ✨
-
+# Badges
 | CI | Code Quality | Git Inspector | Code Coverage | Unit Test |
 |----|--------------|---------------|---------------|-----------|
-|[![CI](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/main.yml) | ![Code Quality](https://www.code-inspector.com/project/26754/score/svg) | [![Git Inspector](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/git_inspector.yml) |[![Code-Coverage](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml/badge.svg)](https://github.com/ajith-io/SDLC_18_Geek_Squad/actions/workflows/Code-Coverage.yml) |
 
-## How To Run
-
-## Output Video
 
 # Folder Structure
 | Folder | Description |
@@ -29,15 +25,12 @@ c++
 |`99005833`|Ajith V| 
 |`99005855`|Puneet Kumar |
 |`99005856`|Vamsi Krishna Varigonda|
-|`99005846`|Sukanya Deka Deka| EVENTS |
-|`99005838`|Ankita Rajesh Daware| FINANCE |
-
+|`99005846`|Sukanya Deka Deka|
+|`99005838`|Ankita Rajesh Daware|
 
 # Features #
   Features            | Description
 -------------------| -----------------------------------------
-`User section`     | A user can create his data.
-`Database`         | It stores values for future reference..
-`Finance`          | User can store and track his/her expenses.
-`Event and calender`| We can book any event and we can view in the calender.
-`Tracking`| Tracking the user's progress in his fitness journey (Including the calorie tracker).
+`User section`     | Enter password to login.
+`View Calender`| We can view in the calender.
+`Reminder`| Set a reminder and view the month on which we have kept reminder.
