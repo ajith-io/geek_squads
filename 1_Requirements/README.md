@@ -1,6 +1,23 @@
 # Introduction #
 REMIND ME is here to take care of your daily needs and activities. This project is a functional calendar which has various uses in the users day to day activities along with event management where one can set reminders for the important activities and Remind Me will remind you of your activities so that you don't miss out on your schedule. 
 
+# **NEED OF CALENDAR**-
+
+Track due dates.
+
+Ease Anxiety.
+
+Plan for what you have coming up in the next week.
+
+# **ADVANTAGES**
+Enable you to track and plan critical work manually 
+
+Let you view calendars by month, quarter, and/or year
+
+# **DISADVANTAGES**
+
+Dependent on technology
+
 # 4W&#s and 1&#39;H
 ## Who:
 **Anyone can use it for reminder and checking the calender. **
