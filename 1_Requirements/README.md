@@ -1,12 +1,11 @@
 # Introduction #
-REMIND ME is here to take care of your health and wealth. Our Application Integrates Event Management. . It also includes reminders and event scheduling for event management
-A calendar is a basic necessity in our day to day activities. This project is a functional calendar which has various uses in the users day to day activities.
+REMIND ME is here to take care of your daily needs and activities. This project is a functional calendar which has various uses in the users day to day activities along with event management where one can set reminders for the important activities and Remind Me will remind you of your activities so that you don't miss out on ypur schedule. 
 
 # 4W&#s and 1&#39;H
 ## Who:
-**To any person who is health conscious and who plans the events and finance**
+**Anyone can use it for reminder and checking the calender. **
 ## What:
-**This is a productivity tool which will take users input and make a workout plan acoordingly then it will guide them to perfome the workouts with proper timing feature, plan their montly finances, and events**
+**This is a productivity tool which will take users login input and  plan their calender and events**
 ## When:
 **Anytime required for the user**
 ## Where:
