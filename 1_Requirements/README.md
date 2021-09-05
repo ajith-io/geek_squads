@@ -20,7 +20,7 @@ Dependent on technology
 
 # 4W&#s and 1&#39;H
 ## Who:
-**Anyone can use it for reminder and checking the calender. **
+**Anyone it use it for setting reminders and checking calender**
 ## What:
 **This is a productivity tool which will take users login input and  plan their calender and events**
 ## When:
