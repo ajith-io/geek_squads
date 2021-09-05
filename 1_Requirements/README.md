@@ -32,7 +32,7 @@ Dependent on technology
 
 
 # SWOT Analysis #
-
+![swot]
 
 
 # Detailed Requirements #
