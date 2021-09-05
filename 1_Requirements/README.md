@@ -32,7 +32,7 @@ Dependent on technology
 
 
 # SWOT Analysis #
-![swot]
+![swot](https://github.com/ajith-io/geek_squads/blob/main/1_Requirements/Untitled.png)
 
 
 # Detailed Requirements #
