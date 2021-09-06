@@ -21,5 +21,5 @@
 |`LLR6`|`HLR3`| Events view the calendar | Check the Calendar| Display the Calendar| Display Calendar | Requirement based |
 
 
-#Test Output
+# Test Output
 ![output](https://github.com/ajith-io/geek_squads/blob/main/4_Test_plan/testing%20output.png)
