@@ -31,8 +31,8 @@ doc:
 $(BUILD_DIR):
 	mkdir $(BUILD_DIR)
 test:
-	g++ test.cpp -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC)) -lgtest -lgtest_main -lpthread
-	./$(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
+	g++ test.cpp $(SRC) -I $(INC_H) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lgtest -lgtest_main -lpthread
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 coverage:$(BUILD)
 	g++ -fprofile-arcs -ftest-coverage -fPIC -O0  $(SRC) -I $(INC_H) main.cpp -o $(PROJ_NAME).$(EXEC)
