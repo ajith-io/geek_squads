@@ -1,5 +1,5 @@
 # Introduction #
-REMIND ME is here to take care of your daily needs and activities. This project is a functional calendar which has various uses in the users day to day activities along with event management where one can set reminders for the important activities and Remind Me will remind you of your activities so that you don't miss out on your schedule. 
+REMIND ME is here to take care of your daily needs and activities. This project is a functional calendar which has various uses in the users day to day activities along with event management where one can set reminders for the important activities and Remind Me will remind you of your activities so that you don't miss out on your schedule.
 
 # **NEED OF CALENDAR**
 
