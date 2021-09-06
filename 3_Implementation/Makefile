@@ -31,7 +31,7 @@ doc:
 $(BUILD_DIR):
 	mkdir $(BUILD_DIR)
 test:
-	g++ $(SRC) $(COV_SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC)) -lgtest -lgtest_main -lpthread
+	g++ -I $(INC_H) $(SRC) $(COV_SRC) -o $(call FixPath,$(TEST_PROJ_NAME).$(EXEC)) -lgtest -lgtest_main -lpthread
 	./$(call FixPath,$(TEST_PROJ_NAME).$(EXEC))
 
 coverage:$(BUILD)
