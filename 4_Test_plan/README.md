@@ -19,3 +19,7 @@
 |`LLR5`|`HLR2`| To invoke function as per selected option|Integer value as in menu| calls the function in that track| as per the entered option, the function is called| Requirement based|
 |`LLR6`|`HLR2`| Events view the reminder | Add about event and duration to check details| wait for that long and see the schedule| any event for the day | Requirement based |
 |`LLR6`|`HLR3`| Events view the calendar | Check the Calendar| Display the Calendar| Display Calendar | Requirement based |
+
+
+#Test Output
+![output](https://github.com/ajith-io/geek_squads/blob/main/4_Test_plan/testing%20output.png)
